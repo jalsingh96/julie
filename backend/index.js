@@ -76,60 +76,73 @@ const movies = [
     },
 
     {   
-        "id" : 1,
-        "name" : "movie 1",
+        "id" : 11,
+        "name" : "movie 11",
         "rating" : 4,
-        "released_date" : "01/01/2010"
+        "released_date" : "01/11/2010"
     },
 
     {   
-        "id" : 1,
-        "name" : "movie 1",
+        "id" : 12,
+        "name" : "movie 12",
         "rating" : 4,
-        "released_date" : "01/01/2010"
+        "released_date" : "01/12/2010"
     },
 
     {   
-        "id" : 1,
-        "name" : "movie 1",
-        "rating" : 4,
-        "released_date" : "01/01/2010"
+        "id" : 13,
+        "name" : "movie 13",
+        "rating" : 2,
+        "released_date" : "01/03/2010"
     },
 
     {   
-        "id" : 1,
-        "name" : "movie 1",
+        "id" : 14,
+        "name" : "movie 14",
         "rating" : 4,
-        "released_date" : "01/01/2010"
+        "released_date" : "01/02/2010"
     },
 
     {   
-        "id" : 1,
-        "name" : "movie 1",
-        "rating" : 4,
-        "released_date" : "01/01/2010"
+        "id" : 15,
+        "name" : "movie 15",
+        "rating" : 3,
+        "released_date" : "01/15/2010"
     },
 
     {   
-        "id" : 1,
-        "name" : "movie 1",
+        "id" : 16,
+        "name" : "movie 16",
         "rating" : 4,
-        "released_date" : "01/01/2010"
+        "released_date" : "01/16/2010"
     },
 
     {   
-        "id" : 1,
-        "name" : "movie 1",
-        "rating" : 4,
-        "released_date" : "01/01/2010"
+        "id" : 17,
+        "name" : "movie 17",
+        "rating" : 3,
+        "released_date" : "01/12/2010"
     },
 
     {   
-        "id" : 1,
-        "name" : "movie 1",
+        "id" : 18,
+        "name" : "movie 18",
         "rating" : 4,
-        "released_date" : "01/01/2010"
+        "released_date" : "01/18/2010"
     },
+    {   
+        "id" : 19,
+        "name" : "movie 19",
+        "rating" : 4,
+        "released_date" : "01/19/2010"
+    },
+    {   
+        "id" : 20,
+        "name" : "movie 20",
+        "rating" : 4,
+        "released_date" : "01/20/2010"
+    },
+
 
     
 
